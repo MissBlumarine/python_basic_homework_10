@@ -1,1 +1,1 @@
-# python_basic_homework_10
+# homework_10
